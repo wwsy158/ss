@@ -1,0 +1,24 @@
+﻿  imageee.c
+E:\c_code\car\car\car\imageee.c(301,36): warning C4244: “函数”: 从“double”转换到“uint8”，可能丢失数据
+E:\c_code\car\car\car\imageee.c(358,32): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c_code\car\car\car\imageee.c(424,18): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c_code\car\car\car\imageee.c(425,19): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c_code\car\car\car\imageee.c(667,9): warning C4005: “SEARCH_RANGE”: 宏重定义
+      E:\c_code\car\car\car\image.h(28,9):
+      参见“SEARCH_RANGE”的前一个定义
+  
+E:\c_code\car\car\car\imageee.c(668,9): warning C4005: “THRESHOLD_RATIO”: 宏重定义
+      E:\c_code\car\car\car\imageee.c(433,9):
+      参见“THRESHOLD_RATIO”的前一个定义
+  
+E:\c_code\car\car\car\imageee.c(700,37): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c_code\car\car\car\imageee.c(729,37): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c_code\car\car\car\imageee.c(1643,9): warning C4005: “THRESHOLD_RATIO”: 宏重定义
+      E:\c_code\car\car\car\imageee.c(668,9):
+      参见“THRESHOLD_RATIO”的前一个定义
+  
+E:\c_code\car\car\car\imageee.c(1675,37): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+E:\c_code\car\car\car\imageee.c(1704,37): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  main.c
+  正在生成代码...
+  car.vcxproj -> E:\c_code\car\car\x64\Debug\car.exe
